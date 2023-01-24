@@ -14,7 +14,7 @@ def processElement(element):
     # convert non-breaking space
     text = text.replace('&nbsp;', '~')
 
-    return text + "\n"
+    return text + "\n\n"
 
 def elementsToLatex(heading, all_elements):
 
@@ -23,6 +23,8 @@ def elementsToLatex(heading, all_elements):
     filename_dir = OUTPUT_DIR + filename.lower() + ".tex"
 
     with open(filename_dir, 'w') as f:
+        # f.write("\\documentclass{article}\n\n\n")
+        # f.write("\\begin{document}\n\n\n")
         # Section title
         section_title = "\\section{" + filename.title() + "}\n\n"
         f.write(section_title)
@@ -31,6 +33,8 @@ def elementsToLatex(heading, all_elements):
         for element in all_elements:
             tex = processElement(element)
             f.write(tex)
+
+        # f.write("\\end{document}\n\n\n")
 
 def getPageContent(driver):
     """
