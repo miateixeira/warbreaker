@@ -4,6 +4,7 @@
 \onehalfspacing
 \usepackage[object=vectorian]{pgfornament}
 \usepackage{xcolor}
+\usepackage{tcolorbox}
 \usepackage[colorlinks=true,urlcolor=blue]{hyperref}
 
 \let\cleardoublepage\clearpage
@@ -34,6 +35,13 @@
 \titleformat{\subsection}
     {\normalfont\normalsize\it}
     {\thesubsection}
+    {1ex}
+    {\vspace{0.5ex}}
+    [\vspace{0.5ex}]
+
+\titleformat{\subsubsection}
+    {\normalfont\normalsize\bfseries\centering}
+    {\thesubsubsection}
     {1ex}
     {\vspace{0.5ex}}
     [\vspace{0.5ex}]
