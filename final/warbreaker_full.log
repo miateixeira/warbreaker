@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021) (preloaded format=pdflatex 2021.11.8)  25 JAN 2023 13:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021) (preloaded format=pdflatex 2021.11.8)  25 JAN 2023 14:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -651,8 +651,9 @@ File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
 )
 (./warbreaker_full.aux (./title_page.aux) (./introduction.aux)
 (./rights_explanation.aux) (./dedication.aux) (./acknowledgements.aux)
-(./map.aux) (./annotation_map.aux) (./prologue.aux) (./annotation_prologue.aux)
-(./chapter_one.aux) (./annotation_chapter_one.aux) (./chapter_two.aux)
+(./annotation_acknowledgements.aux) (./map.aux) (./annotation_map.aux)
+(./prologue.aux) (./annotation_prologue.aux) (./chapter_one.aux)
+(./annotation_chapter_one.aux) (./chapter_two.aux)
 (./annotation_chapter_two.aux) (./chapter_three.aux)
 (./annotation_chapter_three.aux) (./chapter_four.aux)
 (./annotation_chapter_four.aux) (./chapter_five.aux)
@@ -2556,6 +2557,14 @@ e,^^Q he fi-nally said. ^^PThe Cult of Re-turned^^Vthose
 
 
 ]) [713]
+\openout2 = `annotation_wrap_up.aux'.
+
+ (./annotation_wrap_up.tex)
+[714
+
+
+
+]
 \openout2 = `ars_arcanum.aux'.
 
  (./ars_arcanum.tex
@@ -2577,13 +2586,13 @@ Overfull \hbox (5.79395pt too wide) in paragraph at lines 9--10
  []\T1/Cochineal-TLF/b/n/12 (-20) Heightening 
  []
 
-[714
+[715
 
 
 
 
 
-] [715]) [716] (./warbreaker_full.aux (./title_page.aux)
+] [716]) [717] (./warbreaker_full.aux (./title_page.aux)
 (./introduction.aux) (./rights_explanation.aux) (./dedication.aux)
 (./acknowledgements.aux) (./annotation_acknowledgements.aux) (./map.aux)
 (./annotation_map.aux) (./prologue.aux) (./annotation_prologue.aux)
@@ -2645,18 +2654,15 @@ Overfull \hbox (5.79395pt too wide) in paragraph at lines 9--10
 (./annotation_chapter_fifty-six.aux) (./chapter_fifty-seven.aux)
 (./annotation_chapter_fifty-seven.aux) (./chapter_fifty-eight.aux)
 (./annotation_chapter_fifty-eight.aux) (./epilogue.aux)
-(./annotation_epilogue.aux) (./ars_arcanum.aux))
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+(./annotation_epilogue.aux) (./annotation_wrap_up.aux) (./ars_arcanum.aux))
 Package rerunfilecheck Info: File `warbreaker_full.out' has not changed.
 (rerunfilecheck)             Checksum: B1E94AB92C512BE97A49126B0D6AFD15;2591.
  ) 
 Here is how much of TeX's memory you used:
- 27350 strings out of 478579
- 539130 string characters out of 5829409
- 836516 words of memory out of 5000000
- 42570 multiletter control sequences out of 15000+600000
+ 27364 strings out of 478579
+ 539484 string characters out of 5829409
+ 836896 words of memory out of 5000000
+ 42576 multiletter control sequences out of 15000+600000
  562391 words of font info for 236 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  132i,12n,136p,1117b,648s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2666,10 +2672,10 @@ e/2021/texmf-dist/fonts/enc/dvips/cochineal/coch_cuw7wa.enc}</opt/texlive/2021/
 texmf-dist/fonts/type1/public/cochineal/Cochineal-Bold.pfb></opt/texlive/2021/t
 exmf-dist/fonts/type1/public/cochineal/Cochineal-Italic.pfb></opt/texlive/2021/
 texmf-dist/fonts/type1/public/cochineal/Cochineal-Roman.pfb>
-Output written on warbreaker_full.pdf (730 pages, 2519278 bytes).
+Output written on warbreaker_full.pdf (731 pages, 2520638 bytes).
 PDF statistics:
- 3550 PDF objects out of 3580 (max. 8388607)
- 2781 compressed objects within 28 object streams
- 801 named destinations out of 1000 (max. 500000)
+ 3554 PDF objects out of 3580 (max. 8388607)
+ 2784 compressed objects within 28 object streams
+ 802 named destinations out of 1000 (max. 500000)
  30727 words of extra memory for PDF output out of 35830 (max. 10000000)
 
