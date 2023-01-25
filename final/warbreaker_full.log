@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021) (preloaded format=pdflatex 2021.11.8)  25 JAN 2023 13:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021) (preloaded format=pdflatex 2021.11.8)  25 JAN 2023 13:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -651,8 +651,8 @@ File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
 )
 (./warbreaker_full.aux (./title_page.aux) (./introduction.aux)
 (./rights_explanation.aux) (./dedication.aux) (./acknowledgements.aux)
-(./map.aux) (./prologue.aux) (./annotation_prologue.aux) (./chapter_one.aux)
-(./annotation_chapter_one.aux) (./chapter_two.aux)
+(./map.aux) (./annotation_map.aux) (./prologue.aux) (./annotation_prologue.aux)
+(./chapter_one.aux) (./annotation_chapter_one.aux) (./chapter_two.aux)
 (./annotation_chapter_two.aux) (./chapter_three.aux)
 (./annotation_chapter_three.aux) (./chapter_four.aux)
 (./annotation_chapter_four.aux) (./chapter_five.aux)
@@ -901,6 +901,18 @@ Package pdftex.def Info: img/warbreaker_map.jpg  used on input line 4.
 
 
  <./img/warbreaker_map.jpg>]
+\openout2 = `annotation_map.aux'.
+
+ (./annotation_map.tex
+LaTeX Font Info:    Font shape `T1/Cochineal-TLF/m/n' will be
+(Font)              scaled to size 14.4pt on input line 1.
+LaTeX Font Info:    Font shape `T1/Cochineal-TLF/b/n' will be
+(Font)              scaled to size 14.4pt on input line 1.
+) [12
+
+
+
+]
 \openout2 = `prologue.aux'.
 
  (./prologue.texpdfTeX warning (ext4): destination with the same identifier (na
@@ -917,12 +929,7 @@ l.22
 ] [2] [3] [4] [5] [6] [7] [8]) [9]
 \openout2 = `annotation_prologue.aux'.
 
- (./annotation_prologue.tex
-LaTeX Font Info:    Font shape `T1/Cochineal-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 1.
-LaTeX Font Info:    Font shape `T1/Cochineal-TLF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 1.
- [10
+ (./annotation_prologue.tex [10
 
 
 
@@ -2570,7 +2577,7 @@ Overfull \hbox (5.79395pt too wide) in paragraph at lines 9--10
 
 ] [715]) [716] (./warbreaker_full.aux (./title_page.aux)
 (./introduction.aux) (./rights_explanation.aux) (./dedication.aux)
-(./acknowledgements.aux) (./map.aux) (./prologue.aux)
+(./acknowledgements.aux) (./map.aux) (./annotation_map.aux) (./prologue.aux)
 (./annotation_prologue.aux) (./chapter_one.aux) (./annotation_chapter_one.aux)
 (./chapter_two.aux) (./annotation_chapter_two.aux) (./chapter_three.aux)
 (./annotation_chapter_three.aux) (./chapter_four.aux)
@@ -2634,10 +2641,10 @@ Package rerunfilecheck Info: File `warbreaker_full.out' has not changed.
 (rerunfilecheck)             Checksum: B1E94AB92C512BE97A49126B0D6AFD15;2591.
  ) 
 Here is how much of TeX's memory you used:
- 27325 strings out of 478579
- 538504 string characters out of 5829409
- 836136 words of memory out of 5000000
- 42559 multiletter control sequences out of 15000+600000
+ 27339 strings out of 478579
+ 538779 string characters out of 5829409
+ 836516 words of memory out of 5000000
+ 42565 multiletter control sequences out of 15000+600000
  562391 words of font info for 236 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  132i,12n,136p,1117b,648s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2647,10 +2654,10 @@ e/2021/texmf-dist/fonts/enc/dvips/cochineal/coch_cuw7wa.enc}</opt/texlive/2021/
 texmf-dist/fonts/type1/public/cochineal/Cochineal-Bold.pfb></opt/texlive/2021/t
 exmf-dist/fonts/type1/public/cochineal/Cochineal-Italic.pfb></opt/texlive/2021/
 texmf-dist/fonts/type1/public/cochineal/Cochineal-Roman.pfb>
-Output written on warbreaker_full.pdf (728 pages, 2514273 bytes).
+Output written on warbreaker_full.pdf (729 pages, 2516391 bytes).
 PDF statistics:
- 3541 PDF objects out of 3580 (max. 8388607)
- 2774 compressed objects within 28 object streams
- 799 named destinations out of 1000 (max. 500000)
+ 3546 PDF objects out of 3580 (max. 8388607)
+ 2778 compressed objects within 28 object streams
+ 800 named destinations out of 1000 (max. 500000)
  30727 words of extra memory for PDF output out of 35830 (max. 10000000)
 
