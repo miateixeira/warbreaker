@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021) (preloaded format=pdflatex 2021.11.8)  25 JAN 2023 11:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021) (preloaded format=pdflatex 2021.11.8)  25 JAN 2023 13:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -650,9 +650,10 @@ File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
 \l__pdf_internal_box=\box71
 )
 (./warbreaker_full.aux (./title_page.aux) (./introduction.aux)
-(./rights_explanation.aux) (./acknowledgements.aux) (./prologue.aux)
-(./annotation_prologue.aux) (./chapter_one.aux) (./annotation_chapter_one.aux)
-(./chapter_two.aux) (./annotation_chapter_two.aux) (./chapter_three.aux)
+(./rights_explanation.aux) (./dedication.aux) (./acknowledgements.aux)
+(./prologue.aux) (./annotation_prologue.aux) (./chapter_one.aux)
+(./annotation_chapter_one.aux) (./chapter_two.aux)
+(./annotation_chapter_two.aux) (./chapter_three.aux)
 (./annotation_chapter_three.aux) (./chapter_four.aux)
 (./annotation_chapter_four.aux) (./chapter_five.aux)
 (./annotation_chapter_five.aux) (./chapter_six.aux)
@@ -832,7 +833,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 \openout2 = `title_page.aux'.
 
  (./title_page.tex
-<img/warbreaker_cover.jpeg, id=252, 602.25pt x 912.40875pt>
+<img/warbreaker_cover.jpeg, id=256, 602.25pt x 912.40875pt>
 File: img/warbreaker_cover.jpeg Graphic file (type jpg)
 <use img/warbreaker_cover.jpeg>
 Package pdftex.def Info: img/warbreaker_cover.jpeg  used on input line 5.
@@ -869,14 +870,24 @@ LaTeX Font Info:    Font shape `T1/Cochineal-TLF/m/sc' will be
 
 ])
 [6]
-\openout2 = `acknowledgements.aux'.
+\openout2 = `dedication.aux'.
 
- (./acknowledgements.tex [7
+ (./dedication.tex
+(/opt/texlive/2021/texmf-dist/tex/generic/pgfornament/vectorian/vectorian85.pgf
+) [7
 
 
 
 
 ]) [8]
+\openout2 = `acknowledgements.aux'.
+
+ (./acknowledgements.tex [9
+
+
+
+
+]) [10]
 \openout2 = `prologue.aux'.
 
  (./prologue.texpdfTeX warning (ext4): destination with the same identifier (na
@@ -2545,9 +2556,9 @@ Overfull \hbox (5.79395pt too wide) in paragraph at lines 9--10
 
 
 ] [715]) [716] (./warbreaker_full.aux (./title_page.aux)
-(./introduction.aux) (./rights_explanation.aux) (./acknowledgements.aux)
-(./prologue.aux) (./annotation_prologue.aux) (./chapter_one.aux)
-(./annotation_chapter_one.aux) (./chapter_two.aux)
+(./introduction.aux) (./rights_explanation.aux) (./dedication.aux)
+(./acknowledgements.aux) (./prologue.aux) (./annotation_prologue.aux)
+(./chapter_one.aux) (./annotation_chapter_one.aux) (./chapter_two.aux)
 (./annotation_chapter_two.aux) (./chapter_three.aux)
 (./annotation_chapter_three.aux) (./chapter_four.aux)
 (./annotation_chapter_four.aux) (./chapter_five.aux)
@@ -2607,13 +2618,13 @@ Overfull \hbox (5.79395pt too wide) in paragraph at lines 9--10
 (./annotation_chapter_fifty-eight.aux) (./epilogue.aux)
 (./annotation_epilogue.aux) (./ars_arcanum.aux))
 Package rerunfilecheck Info: File `warbreaker_full.out' has not changed.
-(rerunfilecheck)             Checksum: 47D9A430AD5592808F99970B9F36B8F4;2496.
+(rerunfilecheck)             Checksum: B1E94AB92C512BE97A49126B0D6AFD15;2591.
  ) 
 Here is how much of TeX's memory you used:
- 27245 strings out of 478579
- 536754 string characters out of 5829409
- 835185 words of memory out of 5000000
- 42501 multiletter control sequences out of 15000+600000
+ 27265 strings out of 478579
+ 537189 string characters out of 5829409
+ 835568 words of memory out of 5000000
+ 42509 multiletter control sequences out of 15000+600000
  562391 words of font info for 236 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  132i,12n,136p,1117b,483s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2623,10 +2634,10 @@ e/2021/texmf-dist/fonts/enc/dvips/cochineal/coch_cuw7wa.enc}</opt/texlive/2021/
 texmf-dist/fonts/type1/public/cochineal/Cochineal-Bold.pfb></opt/texlive/2021/t
 exmf-dist/fonts/type1/public/cochineal/Cochineal-Italic.pfb></opt/texlive/2021/
 texmf-dist/fonts/type1/public/cochineal/Cochineal-Roman.pfb>
-Output written on warbreaker_full.pdf (725 pages, 2270458 bytes).
+Output written on warbreaker_full.pdf (727 pages, 2276141 bytes).
 PDF statistics:
- 3522 PDF objects out of 3580 (max. 8388607)
- 2759 compressed objects within 28 object streams
- 795 named destinations out of 1000 (max. 500000)
- 30714 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 3535 PDF objects out of 3580 (max. 8388607)
+ 2770 compressed objects within 28 object streams
+ 798 named destinations out of 1000 (max. 500000)
+ 30722 words of extra memory for PDF output out of 35830 (max. 10000000)
 
