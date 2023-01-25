@@ -1,0 +1,134 @@
+\contentsline {chapter}{Introduction}{i}{}%
+\contentsline {chapter}{Rights Explanation}{v}{}%
+\contentsline {chapter}{Acknowledgements}{vii}{}%
+\contentsline {chapter}{\numberline {1}Prologue}{1}{}%
+\contentsline {section}{\numberline {1.1}Annotation Prologue}{13}{}%
+\contentsline {section}{\numberline {1.2}Annotation Prologue Part 2}{16}{}%
+\contentsline {section}{\numberline {1.3}Annotation Prologue Part 3}{19}{}%
+\contentsline {section}{\numberline {1.4}Chapter One}{22}{}%
+\contentsline {section}{\numberline {1.5}Annotation Chapter One}{35}{}%
+\contentsline {section}{\numberline {1.6}Annotation Chapter One Part 2}{38}{}%
+\contentsline {section}{\numberline {1.7}Chapter Two}{41}{}%
+\contentsline {section}{\numberline {1.8}Annotation Chapter Two}{50}{}%
+\contentsline {section}{\numberline {1.9}Annotation Chapter Two Part 2}{53}{}%
+\contentsline {section}{\numberline {1.10}Chapter Three}{55}{}%
+\contentsline {section}{\numberline {1.11}Annotation Chapter Three}{68}{}%
+\contentsline {section}{\numberline {1.12}Annotation Chapter Three Part 2}{70}{}%
+\contentsline {section}{\numberline {1.13}Chapter Four}{72}{}%
+\contentsline {section}{\numberline {1.14}Annotation Chapter Four}{78}{}%
+\contentsline {section}{\numberline {1.15}Annotation Chapter Four Part 2}{80}{}%
+\contentsline {section}{\numberline {1.16}Chapter Five}{82}{}%
+\contentsline {section}{\numberline {1.17}Annotation Chapter Five}{94}{}%
+\contentsline {section}{\numberline {1.18}Annotation Chapter Five Part 2}{96}{}%
+\contentsline {section}{\numberline {1.19}Chapter Six}{98}{}%
+\contentsline {section}{\numberline {1.20}Annotation Chapter Six}{112}{}%
+\contentsline {section}{\numberline {1.21}Chapter Seven}{114}{}%
+\contentsline {section}{\numberline {1.22}Annotation Chapter Seven}{127}{}%
+\contentsline {section}{\numberline {1.23}Chapter Eight}{129}{}%
+\contentsline {section}{\numberline {1.24}Annotation Chapter Eight}{139}{}%
+\contentsline {section}{\numberline {1.25}Chapter Nine}{140}{}%
+\contentsline {section}{\numberline {1.26}Annotation Chapter Nine}{151}{}%
+\contentsline {section}{\numberline {1.27}Chapter Ten}{154}{}%
+\contentsline {section}{\numberline {1.28}Annotation Chapter Ten}{163}{}%
+\contentsline {section}{\numberline {1.29}Chapter Eleven}{166}{}%
+\contentsline {section}{\numberline {1.30}Annotation Chapter Eleven}{175}{}%
+\contentsline {section}{\numberline {1.31}Chapter Twelve}{177}{}%
+\contentsline {section}{\numberline {1.32}Annotation Chapter Twelve}{188}{}%
+\contentsline {section}{\numberline {1.33}Chapter Thirteen}{190}{}%
+\contentsline {section}{\numberline {1.34}Annotation Chapter Thirteen}{201}{}%
+\contentsline {section}{\numberline {1.35}Chapter Fourteen}{204}{}%
+\contentsline {section}{\numberline {1.36}Annotation Chapter Fourteen}{219}{}%
+\contentsline {section}{\numberline {1.37}Annotation Chapter Fourteen Part 2}{221}{}%
+\contentsline {section}{\numberline {1.38}Chapter Fifteen}{223}{}%
+\contentsline {section}{\numberline {1.39}Annotation Chapter Fifteen}{232}{}%
+\contentsline {section}{\numberline {1.40}Annotation Chapter Fifteen Part 2}{234}{}%
+\contentsline {section}{\numberline {1.41}Chapter Sixteen}{236}{}%
+\contentsline {section}{\numberline {1.42}Annotation Chapter Sixteen}{249}{}%
+\contentsline {section}{\numberline {1.43}Chapter Seventeen}{252}{}%
+\contentsline {section}{\numberline {1.44}Annotation Chapter Seventeen}{262}{}%
+\contentsline {section}{\numberline {1.45}Chapter Eighteen}{264}{}%
+\contentsline {section}{\numberline {1.46}Annotation Chapter Eighteen}{274}{}%
+\contentsline {section}{\numberline {1.47}Chapter Nineteen}{277}{}%
+\contentsline {section}{\numberline {1.48}Annotation Chapter Nineteen}{291}{}%
+\contentsline {section}{\numberline {1.49}Chapter Twenty}{293}{}%
+\contentsline {section}{\numberline {1.50}Annotation Chapter Twenty}{300}{}%
+\contentsline {section}{\numberline {1.51}Chapter Twenty-One}{302}{}%
+\contentsline {section}{\numberline {1.57}Annotation Chapter Twenty-One}{369}{}%
+\contentsline {section}{\numberline {1.53}Chapter Twenty-Two}{315}{}%
+\contentsline {section}{\numberline {1.54}Annotation Chapter Twenty-Two}{348}{}%
+\contentsline {section}{\numberline {1.55}Annotation Chapter Twenty-Two Part 2}{352}{}%
+\contentsline {section}{\numberline {1.56}Chapter Twenty-Three}{355}{}%
+\contentsline {section}{\numberline {1.57}Annotation Chapter Twenty-One}{369}{}%
+\contentsline {section}{\numberline {1.58}Chapter Twenty-Four}{373}{}%
+\contentsline {section}{\numberline {1.59}Annotation Chapter Twenty-Four}{383}{}%
+\contentsline {section}{\numberline {1.60}Chapter Twenty-Five}{385}{}%
+\contentsline {section}{\numberline {1.61}Annotation Chapter Twenty-Five}{397}{}%
+\contentsline {section}{\numberline {1.62}Chapter Twenty-Six}{400}{}%
+\contentsline {section}{\numberline {1.63}Annotation Chapter Twenty-Six}{420}{}%
+\contentsline {section}{\numberline {1.64}Chapter Twenty-Seven}{423}{}%
+\contentsline {section}{\numberline {1.65}Annotation Chapter Twenty-Seven}{439}{}%
+\contentsline {section}{\numberline {1.66}Chapter Twenty-Eight}{441}{}%
+\contentsline {section}{\numberline {1.67}Annotation Chapter Twenty-Eight}{455}{}%
+\contentsline {section}{\numberline {1.68}Chapter Twenty-Nine}{457}{}%
+\contentsline {section}{\numberline {1.69}Annotation Chapter Twenty-Nine}{470}{}%
+\contentsline {section}{\numberline {1.70}Chapter Thirty}{473}{}%
+\contentsline {section}{\numberline {1.71}Annotation Chapter Thirty}{486}{}%
+\contentsline {section}{\numberline {1.72}Chapter Thirty-One}{488}{}%
+\contentsline {section}{\numberline {1.73}Annotation Chapter Thirty One}{503}{}%
+\contentsline {section}{\numberline {1.74}Chapter Thirty-Two}{507}{}%
+\contentsline {section}{\numberline {1.75}Annotation Chapter Thirty-Two}{525}{}%
+\contentsline {section}{\numberline {1.76}Chapter Thirty-Three}{527}{}%
+\contentsline {section}{\numberline {1.77}Annotation Chapter Thirty-Three}{538}{}%
+\contentsline {section}{\numberline {1.78}Chapter Thirty-Four}{541}{}%
+\contentsline {section}{\numberline {1.79}Annotation Chapter Thirty-Four}{555}{}%
+\contentsline {section}{\numberline {1.80}Chapter Thirty-Five}{558}{}%
+\contentsline {section}{\numberline {1.81}Annotation Chapter Thirty-Five}{573}{}%
+\contentsline {section}{\numberline {1.82}Chapter Thirty-Six}{578}{}%
+\contentsline {section}{\numberline {1.83}Annotation Chapter Thirty-Six}{590}{}%
+\contentsline {section}{\numberline {1.84}Chapter Thirty-Seven}{593}{}%
+\contentsline {section}{\numberline {1.85}Annotation Chapter Thirty-Seven}{599}{}%
+\contentsline {section}{\numberline {1.86}Chapter Thirty-Eight}{601}{}%
+\contentsline {section}{\numberline {1.87}Annotation Chapter Thirty-Eight}{611}{}%
+\contentsline {section}{\numberline {1.88}Chapter Thirty-Nine}{613}{}%
+\contentsline {section}{\numberline {1.89}Annotation Chapter Thirty-Nine}{618}{}%
+\contentsline {section}{\numberline {1.90}Chapter Forty}{620}{}%
+\contentsline {section}{\numberline {1.91}Annotation Chapter Forty}{629}{}%
+\contentsline {section}{\numberline {1.92}Chapter Forty-One}{631}{}%
+\contentsline {section}{\numberline {1.93}Annotation Chapter Forty-One}{637}{}%
+\contentsline {section}{\numberline {1.94}Chapter Forty-Two}{639}{}%
+\contentsline {section}{\numberline {1.95}Annotation Chapter Forty-Two}{648}{}%
+\contentsline {section}{\numberline {1.96}Chapter Forty-Three}{650}{}%
+\contentsline {section}{\numberline {1.97}Annotation Chapter Forty-Three}{669}{}%
+\contentsline {section}{\numberline {1.98}Chapter Forty-Four}{674}{}%
+\contentsline {section}{\numberline {1.99}Annotation Chapter Forty-Four}{683}{}%
+\contentsline {section}{\numberline {1.100}Chapter Forty-Five}{685}{}%
+\contentsline {section}{\numberline {1.101}Annotation Chapter Forty-Five}{686}{}%
+\contentsline {section}{\numberline {1.102}Chapter Forty-Six}{688}{}%
+\contentsline {section}{\numberline {1.103}Annotation Chapter Forty-Six}{704}{}%
+\contentsline {section}{\numberline {1.104}Chapter Forty-Seven}{707}{}%
+\contentsline {section}{\numberline {1.105}Annotation Chapter Forty-Seven}{715}{}%
+\contentsline {section}{\numberline {1.106}Chapter Forty-Eight}{718}{}%
+\contentsline {section}{\numberline {1.107}Annotation Chapter Forty-Eight}{724}{}%
+\contentsline {section}{\numberline {1.108}Chapter Forty-Nine}{725}{}%
+\contentsline {section}{\numberline {1.109}Annotation Chapter Forty-Nine}{745}{}%
+\contentsline {section}{\numberline {1.110}Chapter Fifty}{749}{}%
+\contentsline {section}{\numberline {1.111}Annotation Chapter Fifty}{765}{}%
+\contentsline {section}{\numberline {1.112}Chapter Fifty-One}{768}{}%
+\contentsline {section}{\numberline {1.113}Annotation Chapter Fifty-One}{779}{}%
+\contentsline {section}{\numberline {1.114}Chapter Fifty-Two}{781}{}%
+\contentsline {section}{\numberline {1.115}Annotation Chapter Fifty-Two}{795}{}%
+\contentsline {section}{\numberline {1.116}Chapter Fifty-Three}{799}{}%
+\contentsline {section}{\numberline {1.117}Annotation Chapter Fifty-Three}{811}{}%
+\contentsline {section}{\numberline {1.118}Chapter Fifty-Four}{816}{}%
+\contentsline {section}{\numberline {1.119}Annotation Chapter Fifty-Four}{827}{}%
+\contentsline {section}{\numberline {1.120}Chapter Fifty-Five}{831}{}%
+\contentsline {section}{\numberline {1.121}Annotation Chapter Fifty-Five}{843}{}%
+\contentsline {section}{\numberline {1.122}Chapter Fifty-Six}{847}{}%
+\contentsline {section}{\numberline {1.123}Annotation Chapter Fifty-Six}{857}{}%
+\contentsline {section}{\numberline {1.124}Chapter Fifty-Seven}{860}{}%
+\contentsline {section}{\numberline {1.125}Annotation Chapter Fifty-Seven}{872}{}%
+\contentsline {section}{\numberline {1.126}Chapter Fifty-Eight}{877}{}%
+\contentsline {section}{\numberline {1.127}Annotation Chapter Fifty-Eight}{892}{}%
+\contentsline {section}{\numberline {1.128}Epilogue}{896}{}%
+\contentsline {section}{\numberline {1.129}Annotation Epilogue}{903}{}%
+\contentsline {section}{\numberline {1.130}Ars Arcanum}{905}{}%

@@ -1,0 +1,58 @@
+\usepackage{cochineal}
+\usepackage{geometry}
+\usepackage{setspace}
+\onehalfspacing
+\usepackage[object=vectorian]{pgfornament}
+\usepackage{xcolor}
+\usepackage[colorlinks=true,urlcolor=blue]{hyperref}
+
+\let\cleardoublepage\clearpage
+
+\newcommand{\orn}{
+    \bigskip
+    \begin{center}
+        \pgfornament[width=0.4\textwidth]{85}
+    \end{center}
+    \bigskip
+}
+
+\usepackage{titlesec}
+\titleformat{\chapter}[block]
+    {\normalfont\Large\bfseries\centering}
+    {\thechapter\\~~\pgfornament[width=1.5cm]{70}}
+    {0pt}
+    {\vspace{2ex}}
+    [\vspace{1ex}]
+
+\titleformat{\section}
+    {\normalfont\large\bfseries}
+    {\thesection}
+    {1ex}
+    {\vspace{1ex}}
+    [\vspace{1ex}]
+
+\titleformat{\subsection}
+    {\normalfont\normalsize\it}
+    {\thesubsection}
+    {1ex}
+    {\vspace{0.5ex}}
+    [\vspace{0.5ex}]
+
+\usepackage{fancyhdr}
+\setlength{\headheight}{15pt}
+\setlength{\footskip}{60pt}
+\renewcommand\footrule{\centering\rule[1ex]{.075\textwidth}{0.5pt}}
+\pagestyle{fancy}
+\fancyhf{}
+\fancypagestyle{plain}{
+    \chead{}
+    \cfoot{\thepage}
+}
+\renewcommand{\headrulewidth}{0pt}
+\fancyhead[CE]{\textsc{Warbreaker}}
+\fancyhead[CO]{\textsc{Brandon Sanderson}}
+\fancyfoot[C]{\thepage}
+
+\usepackage{microtype}
+
+\usepackage{graphicx}
